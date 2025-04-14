@@ -9,16 +9,16 @@ I am an Experienced Front-End Developer with 3.5+ years of expertise in designin
 Frontend: React.js, Next.js (App Router), JavaScript (ES6+), TypeScript
 Styling: Tailwind CSS, CSS Modules, SCSS, Bootstrap, React Bootstrap
 State Management: Redux Toolkit, Redux Saga, Context API
-Backend & API: Node.js, Express.js, REST API
-Databases: MongoDB (Mongoose)
+Backend & API:  REST API
 Testing: React Testing Library (RTL), JEST
-CI/CD & Tools: Git, GitHub, Jenkins, JIRA, Postman, npm, Vercel
+CI/CD & Tools: Git, GitHub, , JIRA, Postman, npm, Vercel
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔥 What I’m Working On
 🚧 Developer Portfolio – Launched my initial version,Working on modifying into new animations for better user experience using framer motion and contacts ection to send emails using EJS.
 🛒 E-commerce Site – A modern online shopping platform with seamless UI/UX and optimized performance using MERN stack.
 📚 Expanding Knowledge – Sharpening my knowledge on JavaScript,Next js , tailwind css, Cypress.
 () GOT Family Inspector - Fetches and displays GOT characters from a public API using React, Redux , focusing more on tuning performance
+$ Building a physics particle game using React,TypeScript,Zustand and later learn GraphQL API
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 💼 Work Experience Highlights
 
