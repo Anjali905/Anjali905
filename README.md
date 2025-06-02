@@ -34,8 +34,10 @@ Git, GitHub, Jira, Postman, npm, Vercel
 ---
 ## Personal Projects:
 -- ** 📚 Converso – AI-Powered LMS SaaS App** - Fullstack
+
 Live App Link: https://converso-saas-app-blond.vercel.app/
-  Developed a production-ready LMS platform featuring user authentication (Clerk), subscriptions (Stripe), real-time teaching via Vapi voice integration, and an AI-powered vocal agent. Built using Next.js 14 and Supabase. A major personal milestone showcasing my ability to architect scalable, real-time applications.
+
+Developed a production-ready LMS platform featuring user authentication (Clerk), subscriptions (Stripe), real-time teaching via Vapi voice integration, and an AI-powered vocal agent. Built using Next.js 14 and Supabase. A major personal milestone showcasing my ability to architect scalable, real-time applications.
 
 --** Ecommerce Website -Fullstack
 
