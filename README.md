@@ -14,11 +14,12 @@ Testing: React Testing Library (RTL), JEST
 CI/CD & Tools: Git, GitHub, , JIRA, Postman, npm, Vercel
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔥 What I’m Working On
+ 📚 Converso-AI Powered LMS Saas App- Developed a production-ready SaaS LMS platform featuring user authentication (Clerk), subscriptions (Stripe), real-time teaching with Vapi voice integration, and an AI-powered vocal agent, built with Next.js 14 and backed by Supabase. This project marked a major personal milestone, showcasing my ability to architect scalable systems with real-time and voice capabilities early in my development journey.
 🚧 Developer Portfolio – Launched my initial version,Working on modifying into new animations for better user experience using framer motion and contacts ection to send emails using EJS.
 🛒 E-commerce Site – A modern online shopping platform with seamless UI/UX and optimized performance using MERN stack.
-📚 Expanding Knowledge – Sharpening my knowledge on JavaScript,Next js , tailwind css, Cypress.
 () GOT Family Inspector - Fetches and displays GOT characters from a public API using React, Redux , focusing more on tuning performance
-$ Building a physics particle game using React,TypeScript,Zustand and later learn GraphQL API
+📚 Expanding Knowledge – Sharpening my knowledge on JavaScript,Next js , tailwind css also imporving problem solving skills
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 💼 Work Experience Highlights
 
