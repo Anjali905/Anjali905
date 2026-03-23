@@ -7,7 +7,7 @@
 
 ## 🚀 Senior Front-End Developer | React.js | Next.js | TypeScript
 
-Experienced Front-End Developer with 3.5+ years of expertise in designing and building scalable, high-performance web applications using React.js, Next.js, and Node.js. Passionate about optimizing user experience and writing clean, maintainable code. I specialize in full-stack JavaScript development, ensuring seamless front-end and back-end integration.
+Experienced Front-End Developer with 3+ years of expertise in designing and building scalable, high-performance web applications using React.js, Next.js, and Node.js. Passionate about optimizing user experience and writing clean, maintainable code. I specialize in full-stack JavaScript development, ensuring seamless front-end and back-end integration.
 
 ---
 
@@ -44,6 +44,9 @@ Developed a production-ready LMS platform featuring user authentication (Clerk),
 A modern online shopping platform featuring optimized UI/UX built with the MERN stack.
 
 ## 🔥 What I’m Working On
+- **📚 Classroom Management System – PERN Stack**- Postgres,Express,js, React.js ,Node.js
+
+ Building a full-Scale University Management Dashboard from Scratch which is a production-ready system featuring multi-role authentication, secure join codes and Cloudinary media upload. This is to enhance my knowledge on how Postgres works with react
 
 - **📚 Converso – AI-Powered LMS SaaS App**
 
